@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nathapongn
+- 👀 I’m a UX Designer
+- 🌱 I’m currently learning HTML, CSS & JavaScript
